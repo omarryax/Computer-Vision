@@ -1,0 +1,1 @@
+Home Task 1: Write a code to load image files having multiple extensions (.jpg, .png, .tiff) from a single folder using a loop and apply all operations mentioned in Lab1 part 2 being in a loop of all images.
